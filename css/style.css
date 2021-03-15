@@ -47,13 +47,13 @@ ul {
     padding-left: 15px;
 }
 
-thead {
+.testata {
     background-color: lightskyblue;
 }
 
-#col {
+/* #col {
     text-align: right;
-}
+} */
 
 .evidenziato {
     background-color: yellow;
@@ -85,4 +85,8 @@ h3 {
     font-weight: 700;
     padding-top: 10px;
     margin-top: 10px;
+}
+
+.azzurrino {
+    background-color: lightblue;
 }
