@@ -19,7 +19,7 @@ header {
 
 #titolo {
     margin-bottom: 5px;
-        
+
 }
 
 #sottotitolo {
@@ -45,4 +45,44 @@ header {
 
 ul {
     padding-left: 15px;
+}
+
+thead {
+    background-color: lightskyblue;
+}
+
+#col {
+    text-align: right;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+h3 {
+    color: grey;
+    font-size: 16px;
+}
+
+.immagine1 {
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 208px;
+    /* background-size: contain; */
+}
+
+.immagine2 {
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 207px;
+    /* background-size: contain; */
+
+}
+
+.testo {
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 10px;
+    margin-top: 10px;
 }
