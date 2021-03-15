@@ -51,10 +51,6 @@ ul {
     background-color: lightskyblue;
 }
 
-/* #col {
-    text-align: right;
-} */
-
 .evidenziato {
     background-color: yellow;
 }
@@ -89,4 +85,19 @@ h3 {
 
 .azzurrino {
     background-color: lightblue;
+}
+
+td {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.cella {
+    width: 200px;
+    height: 50px;
+}
+
+.col {
+    width: 700px;
 }
